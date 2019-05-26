@@ -1,0 +1,64 @@
+{
+    "label": [
+        "Cidade A",
+        "Cidade B",
+        "Cidade C",
+        "Cidade D"
+    ],
+    "values": [
+        {
+            "label": "Mês A",
+            "values": [
+                20,
+                40,
+                15,
+                5
+            ]
+        },
+        {
+            "label": "Mês B",
+            "values": [
+                30,
+                10,
+                45,
+                10
+            ]
+        },
+        {
+            "label": "Mês E",
+            "values": [
+                38,
+                20,
+                35,
+                17
+            ]
+        },
+        {
+            "label": "Mês F",
+            "values": [
+                58,
+                10,
+                35,
+                32
+            ]
+        },
+        {
+            "label": "date D",
+            "values": [
+                55,
+                60,
+                34,
+                38
+            ]
+        },
+        {
+            "label": "date C",
+            "values": [
+                26,
+                40,
+                25,
+                40
+            ]
+        }
+    ]
+}
