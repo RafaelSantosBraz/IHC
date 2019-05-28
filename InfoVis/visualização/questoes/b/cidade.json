@@ -1,0 +1,46 @@
+{
+    "label": [
+        "Londrina",
+        "Curitiba",
+        "Castro",
+        "Campo Moural"
+    ],
+    "values": [
+        {
+            "label": "Londrina",
+            "values": [
+                5.54,
+                0,
+                0,
+                0             
+            ]
+        },
+        {
+            "label": "Curitiba",
+            "values": [                                
+                0,
+                4.59,
+                0,
+                0
+            ]
+        },
+        {
+            "label": "Castro",
+            "values": [                                
+                0,
+                0,
+                4.55,
+                0
+            ]
+        },
+        {
+            "label": "Campo Moural",
+            "values": [                                
+                0,
+                0,
+                0,
+                6.55
+            ]
+        }
+    ]
+}
