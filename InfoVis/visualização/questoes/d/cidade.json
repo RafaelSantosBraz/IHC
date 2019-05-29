@@ -1,0 +1,46 @@
+{
+    "label": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+    ],
+    "values": [
+        {
+            "label": "Londrina",
+            "values": [
+                1,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "label": "Curitiba",
+            "values": [
+                1,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "label": "Castro",
+            "values": [
+               1,
+               0,
+               2,
+               2
+            ]
+        },
+        {
+            "label": "Campo Moural",
+            "values": [
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
