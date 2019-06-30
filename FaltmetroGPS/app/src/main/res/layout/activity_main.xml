@@ -49,6 +49,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="162dp"
         android:drawableStart="@drawable/contato24"
+        android:onClick="abrirMenuLateral"
         android:text="Entrar com Email"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textSize="20sp"
