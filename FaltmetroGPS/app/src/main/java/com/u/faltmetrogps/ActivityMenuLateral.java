@@ -30,7 +30,7 @@ public class ActivityMenuLateral extends AppCompatActivity
         setContentView(R.layout.activity_menu_lateral);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        FloatingActionButton fab = findViewById(R.id.fab);
+        FloatingActionButton fab = findViewById(R.id.addDisciplina);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

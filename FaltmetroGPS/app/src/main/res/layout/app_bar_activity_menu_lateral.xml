@@ -23,11 +23,12 @@
     <include layout="@layout/content_activity_menu_lateral" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fab"
+        android:id="@+id/addDisciplina"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
+        android:tint="#FFFFFF"
+        app:srcCompat="@drawable/addplus24" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
