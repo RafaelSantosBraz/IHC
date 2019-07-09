@@ -14,4 +14,9 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="title_activity_disciplinas_aluno">DisciplinasAluno</string>
+    <string name="title_activity_disciplinas_professor">DisciplinasProfessor</string>
+    <string name="title_activity_fazer_chamada">Fazer Chamada</string>
+    <string name="title_activity_editar_disciplina_professor">Editar Disciplina Professor</string>
+    <string name="title_activity_criar_disciplina_professor">Criar Disciplina Professor</string>
 </resources>

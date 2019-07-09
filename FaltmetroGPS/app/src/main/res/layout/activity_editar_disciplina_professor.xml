@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ActivityMenuLateral">
+    tools:context=".EditarDisciplinaProfessor">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -20,24 +20,15 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <include
-        android:id="@+id/include"
-        layout="@layout/content_activity_menu_lateral" />
+    <include layout="@layout/content_editar_disciplina_professor" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/addDisciplina"
+        android:id="@+id/confirmarDisciplina"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         android:tint="#FFFFFF"
-        app:srcCompat="@drawable/addplus24" />
-
-    <com.google.android.gms.maps.MapView
-        android:id="@+id/mapView"
-        android:layout_width="match_parent"
-        android:layout_height="309dp"
-        app:layout_anchor="@+id/include"
-        app:layout_anchorGravity="start|center" />
+        app:srcCompat="@drawable/ok" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
